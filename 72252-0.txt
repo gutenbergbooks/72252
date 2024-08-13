@@ -1,8 +1,3 @@
-
-
-
-
-
 JEUNESSE
 
 SUIVI DU
@@ -29,7 +24,7 @@ PRÉCÉDEMMENT PARUS:
 
     Le Typhon, traduction d’André Gide.
     La Folie Almayer, traduction de Geneviève Séligmann-Lui.
-    Long Jim, traduction de Philippe Neel.
+    Lord Jim, traduction de Philippe Neel.
     En Marge des Marées, traduction de G. Jean-Aubry.
     Sous les Yeux d’Occident, traduction de Philippe Neel.
     Une Victoire, traduct. d’Isabelle Rivière et Philippe Neel.
@@ -2064,7 +2059,7 @@ salutant!_ De tous ceux qu’elle regarda ainsi, il n’en est pas beaucoup
 qui la revirent, moins de la moitié, il s’en faut!...
 
 «Restait la visite au médecin. «Simple formalité», m’assura le
-secrétaire avec, l’air de prendre une part immense à mes malheurs. En
+secrétaire avec l’air de prendre une part immense à mes malheurs. En
 conséquence, un jeune gaillard qui portait son chapeau incliné sur le
 sourcil gauche--un commis, je pense, car il devait bien y avoir des
 commis dans cette affaire, encore que la maison fût aussi silencieuse
@@ -2394,7 +2389,7 @@ intention quelconque? Il avait l’air saisissant sur ce cou noir, ce bout
 de cordon blanc venu de par-delà les mers.
 
 «Près du même arbre, deux autres paquets d’angles aigus étaient tapis,
-les jambes remontées L’un d’eux, le menton étayé sur les genoux,
+les jambes remontées. L’un d’eux, le menton étayé sur les genoux,
 regardait dans le vide d’une manière intolérable et effrayante: son
 frère fantôme se soutenait le front comme accablé d’un intense ennui, et
 à l’entour, d’autres encore étaient dispersés, dans toutes les attitudes
@@ -2960,7 +2955,7 @@ façons changèrent: il devint très froid et mit sans transition la
 conversation sur un hippopotame, se demandant si je n’étais pas dérangé
 par lui tandis que je dormais à bord, car je ne lâchais mon épave ni de
 jour ni de nuit. Il y avait un vieil hippopotame dont c’était la
-fâcheuse habitude de gravir les berges et de rôder là nuit dans les
+fâcheuse habitude de gravir les berges et de rôder la nuit dans les
 terrains de la Station. Les pèlerins alors avaient coutume d’effectuer
 une sortie en masse en déchargeant tous les fusils qui leur tombaient
 sous la main. Certains même avaient passé des nuits entières à l’affût.
@@ -3112,7 +3107,7 @@ bout du nez», toute une kyrielle d’absurdes bouts de phrases qui
 finirent par avoir raison de ma somnolence si bien que j’avais à peu
 près repris mes esprits au moment où l’oncle déclara: «Le climat peut
 résoudre cette difficulté en votre faveur. Il est seul là-bas?»--«Oui,
-répondit le Directeur Il a envoyé son adjoint avec un billet à mon
+répondit le Directeur. Il a envoyé son adjoint avec un billet à mon
 adresse ainsi conçu ou à peu près: «Débarrassez ce pays de ce pauvre
 diable et ne prenez pas la peine de m’en envoyer d’autres du même
 acabit. J’aime mieux être seul que travailler avec l’espèce de gens que
@@ -3167,7 +3162,7 @@ puisse mettre votre situation en péril. La raison?--Vous supportez le
 climat. Vous survivez à tous. Le danger est en Europe, mais avant de
 partir, j’ai pris soin de...» Ils se remirent à marcher en chuchottant;
 leurs voix ensuite s’élevèrent à nouveau: «Cette extraordinaire
-succession de retards n’est pas de ma faute J’ai fait ce qui était en
+succession de retards n’est pas de ma faute. J’ai fait ce qui était en
 mon pouvoir...» Le gros homme soupira: «Très triste!...» «Et
 l’abominable absurdité de ses propos! reprit l’autre. M’a-t-il assez
 excédé quand il était ici: Chaque station devrait être comme un phare
@@ -3180,7 +3175,7 @@ au-dessous de moi: j’aurais pu cracher sur leurs chapeaux. Perdus dans
 leurs pensées, ils regardaient à leurs pieds. Le Directeur se fouettait
 la jambe avec une mince badine. Son judicieux parent releva la tête:
 «Vous vous êtes bien porté depuis que vous êtes revenu ici?»
-demanda-t-il Le neveu eut un soubresaut: «Qui? Moi!... Oh, comme un
+demanda-t-il. Le neveu eut un soubresaut: «Qui? Moi!... Oh, comme un
 charme, comme un charme! Mais les autres... Ah, grands dieux! Tous
 malades!... Et ils meurent si vite que je n’ai pas le temps de les
 évacuer... C’est incroyable».--«Hum! grogna l’oncle. C’est bien ça...
@@ -3418,7 +3413,7 @@ les pages avaient pris une espèce de mollesse extrêmement crasseuse,
 mais le dos avait été recousu avec amour à l’aide de coton blanc qui
 avait encore l’air propre. C’était une trouvaille extraordinaire. Elle
 avait pour titre: _Recherches sur quelques Problèmes de Navigation_, par
-un nommé Tower, Towson, un nom de ce genre, capitaine de la Marine
+un nommé Towser, Towson, un nom de ce genre, capitaine de la Marine
 Britannique. Le sujet paraissait austère à souhait, avec ses diagrammes
 explicatifs et de déprimants tableaux de chiffres et l’ouvrage datait de
 soixante ans. Je maniai cette déconcertante antiquité avec la plus
@@ -3456,25 +3451,25 @@ sombre; à quoi je répliquai du ton le plus innocent que nul n’était
 exempt d’ennuis en ce monde.
 
 «Le courant était devenu plus rapide et le vapeur semblait à bout de
-souffle; la roue d’arrière tournait languissamment et de temps en temps,
-je me prenais à écouter sur la pointe des pieds les battements des
-palettes, car, en toute sincérité, je m’attendais à ce que d’un moment à
-l’autre, la misérable patraque s’arrêtât. C’était proprement épier les
-dernières palpitations d’une vie qui s’éteint. Pourtant, nous
-continuions de nous traîner. Parfois, je marquais du regard un arbre
-devant moi, pour mesurer grâce à lui de quelle distance nous nous
-rapprochions de Kurtz, mais je le perdais de vue invariablement avant de
-l’avoir atteint. C’en était trop pour la patience humaine que de garder
-les yeux si longtemps fixés sur un même point. Le Directeur faisait
-preuve d’une magnifique résignation. Pour moi, je m’énervais et
-m’agitais tout en discutant en mon for intérieur s’il convenait ou non
-de parler ouvertement à Kurtz. Mais avant d’en être arrivé à une
-conclusion, l’idée me vint que parler, me taire ou faire quoi que ce
-fût, tout était également vain. Qu’importait que quelqu’un sût ou
-ignorât! Qu’importait que ce fût celui-ci ou celui-là qui fût Directeur!
-On a parfois de ces illuminations... Les ressorts de cette affaire
-étaient profondément cachés sous la surface, à l’abri de mon atteinte et
-de ma possible intervention.
+souffle; la roue d’arrière tournait languissamment et de temps en
+temps, je me prenais à écouter sur la pointe des pieds les battements
+des palettes, car, en toute sincérité, je m’attendais à ce que d’un
+moment à l’autre, la misérable patraque s’arrêtât. C’était proprement
+épier les dernières palpitations d’une vie qui s’éteint. Pourtant,
+nous continuions de nous traîner. Parfois, je marquais du regard un
+arbre devant moi, pour mesurer grâce à lui de quelle distance nous
+nous rapprochions de Kurtz, mais je le perdais de vue invariablement
+avant de l’avoir atteint. C’en était trop pour la patience humaine que
+de garder les yeux si longtemps fixés sur un même point. Le Directeur
+faisait preuve d’une magnifique résignation. Pour moi, je m’énervais
+et m’agitais tout en discutant en mon intérieur s’il convenait ou
+non de parler ouvertement à Kurtz. Mais avant d’en être arrivé à une
+conclusion, l’idée me vint que parler, me taire ou faire quoi que
+ce fût, tout était également vain. Qu’importait que quelqu’un sût
+ou ignorât! Qu’importait que ce fût celui-ci ou celui-là qui fût
+Directeur! On a parfois de ces illuminations... Les ressorts de cette
+affaire étaient profondément cachés sous la surface, à l’abri de mon
+atteinte et de ma possible intervention.
 
 «Vers le soir du second jour, j’estimai que nous nous trouvions à
 environ treize kilomètres de la station de Kurtz. J’avais grand’envie de
@@ -3638,7 +3633,7 @@ perte de son âme, que cette espèce de faim qui dure. Triste, mais
 vrai!... Et ces gaillards-là n’avaient aucune raison au monde de se
 faire scrupule. Retenue!... Autant en attendre de l’hyène qui rôde parmi
 les cadavres d’un champ de bataille!... Mais tel était, cependant, le
-fait devant, moi, éclatant, pareil à l’écume sur les profondeurs de la
+fait devant moi, éclatant, pareil à l’écume sur les profondeurs de la
 mer, au frémissement derrière l’énigme insondable: et son mystère, à y
 bien réfléchir, m’apparaissait plus alarmant que l’inexplicable,
 l’étrange accent de douleur désespérée qui traversait cette sauvage
@@ -4502,7 +4497,7 @@ pointue volant droit au cœur du pays, et comme par enchantement, un
 torrent d’êtres humains nus, avec des lances dans leurs mains, avec des
 arcs, des boucliers, des yeux féroces et des gestes sauvages, fut lâché
 dans la clairière par la sombre et pensive forêt. La brousse trembla.
-Les hautes herbes un instant s’inclinèrent, et ensuite tout demeura coi
+Les hautes herbes un instant s’inclinèrent, et ensuite tout demeura
 dans une attentive immobilité.
 
 --«Et maintenant, s’il ne dit pas le mot qu’il faut, nous sommes tous
@@ -4538,7 +4533,7 @@ subitement projeté ces créatures les eût absorbées à nouveau, comme le
 souffle inhalé d’une longue aspiration.
 
 «Quelques-uns des pèlerins, derrière la civière, portaient les armes de
-Kurtz, deux fusils de chasse, Une carabine de gros calibre, une autre,
+Kurtz, deux fusils de chasse. Une carabine de gros calibre, une autre,
 légère, à répétition, tous les tonnerres de ce vieux Jupiter. Le
 Directeur, penché vers lui, tout en marchant, lui parlait bas à
 l’oreille. On le déposa dans l’une des petites cabines, une espèce de
@@ -4640,7 +4635,7 @@ de me mener à l’écart.--«Il est très bas, vraiment très bas!» fit-il. Il
 crut nécessaire de pousser un soupir, mais négligea de paraître affligé
 en proportion... «Nous avons fait ce que nous pouvions pour lui,
 n’est-il pas vrai?... Mais il n’y a pas à dissimuler le fait: M. Kurtz a
-fait plus de tort que de bien à la Société, Il n’a pas compris que les
+fait plus de tort que de bien à la Société. Il n’a pas compris que les
 temps n’étaient pas mûrs pour l’action rigoureuse. Prudemment,
 prudemment,--c’est là mon principe. Il nous faut être prudent encore.
 Pour quelque temps ce district nous est fermé; c’est déplorable... Dans
@@ -4993,7 +4988,7 @@ l’autre pareilles, les tournants monotones, exactement semblables,
 glissaient au long du vapeur, avec leurs multitudes d’arbres séculaires
 qui considéraient patiemment ce misérable fragment d’un autre monde,
 avant-coureur de changement, de conquête, de négoce, de massacres, de
-bénédictions. Les yeux à l’avant, je gouvernais, «Fermez le volet!» dit
+bénédictions. Les yeux à l’avant, je gouvernais. «Fermez le volet!» dit
 un jour Kurtz brusquement, «je ne puis plus supporter de voir cela...»
 Je fis ce qu’il demandait. Il y eut un silence. «Ah! je te briserai le
 cœur tout de même!...» cria-t-il à l’invisible sauvagerie.
@@ -5373,7 +5368,7 @@ scintillement doré, tout ce qui restait de clarté dans l’air. Je me
 levai à mon tour.
 
 --«Et de tout cela, fit-elle encore, avec désolation, de tout ce qu’il
-promettait, de toute sa grandeur, de cette âme généreuses de ce cœur si
+promettait, de toute sa grandeur, de cette âme généreuse de ce cœur si
 noble, il ne reste plus rien--rien qu’un souvenir... Vous et moi...
 
 --«Nous nous souviendrons toujours de lui!...» fis-je hâtivement.
@@ -5476,4 +5471,3 @@ semblait mener vers le cœur même d’infinies ténèbres.
     LE 30 JUILLET 1925
     PAR F. PAILLART A
     ABBEVILLE (SOMME).
-
